@@ -3,5 +3,5 @@ from cocotb.triggers import Timer
 
 
 @cocotb.test()
-async def dut_test(cut):
+async def QWE(cut):
     assert 1, "Test Not Implemented Error"
